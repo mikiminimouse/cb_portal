@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'bike_rental',
+    'import_export',
+    'django_filters',
+    # 'smart_selects',
 ]
 
 MIDDLEWARE = [
